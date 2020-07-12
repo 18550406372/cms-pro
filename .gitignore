@@ -1,2 +1,15 @@
+*/target
+/.idea
+*.class
+target/
+.project
+.settings/
+.classpath
+logs
+/classes/
+*/logs
+*.log
+*/*.log
+out
+*/out
 
-!/.idea/
