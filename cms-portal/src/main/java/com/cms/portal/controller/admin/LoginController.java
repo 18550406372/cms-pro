@@ -26,6 +26,7 @@ public class LoginController {
 
     @GetMapping("captcha.do")
     public void doCaptcha(HttpServletResponse response){
+
         String text = captchaProducer.createText();
         BufferedImage image = captchaProducer.createImage(text);
 
