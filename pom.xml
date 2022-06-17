@@ -58,7 +58,7 @@
         <druidVersion>1.0.7</druidVersion>
         <shiroVersion>1.3.2</shiroVersion>
         <freemarkerVersion>2.3.23</freemarkerVersion>
-        <fastjsonVersion>1.2.55</fastjsonVersion>
+        <fastjsonVersion>1.2.83</fastjsonVersion>
         <ehcacheCoreVersion>2.6.6</ehcacheCoreVersion>
         <mybatisEhcacheVersion>1.1.0</mybatisEhcacheVersion>
         <luceneVersion>4.6.1</luceneVersion>
